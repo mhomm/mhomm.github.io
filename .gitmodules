@@ -1,0 +1,3 @@
+[submodule "blog.mhomm.eu/themes/compose"]
+	path = blog.mhomm.eu/themes/compose
+	url = git@github.com:onweru/compose.git

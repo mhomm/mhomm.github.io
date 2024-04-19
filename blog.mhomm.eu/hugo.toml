@@ -1,0 +1,4 @@
+baseURL = 'https://blog.mhomm.eu/'
+languageCode = 'en-us'
+title = 'Blog mhomm'
+theme = 'compose'
