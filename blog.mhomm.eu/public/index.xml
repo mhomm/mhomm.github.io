@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog mhomm</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Blog mhomm</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Load Balancing Guide</title>
+      <link>http://localhost:1313/guidenlb/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/guidenlb/</guid>
+      <description>NLB Guide Requirement account local admin of all servers 1 IP Address DNS resolution on this IP At least 2 Windows Servers This documentation is based on Microsoft Documentation (https://docs.microsoft.com/en-us/iis/extensions/configuring-application-request-routing-arr/achieving-high-availability-and-scalability-arr-and-nlb)&#xA;Schema : NLB Configuration The NLB configuration is divided into the following steps:&#xA;Install the NLB feature on all ARR servers. Create NLB cluster for ARR. Configure NLB for active/passive deployment. Install the NLB feature on all ARR Servers Launch Server Manager Click Next on default page Select Role-based or feature-based installation Select the server Go to Features and select Network Load Balancing Add required Features for NLB Confirm Installation Do the same for all servers involve in the network load balancing.</description>
+    </item>
+  </channel>
+</rss>
